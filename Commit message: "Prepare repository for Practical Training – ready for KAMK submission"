@@ -1,0 +1,35 @@
+# Practical Training Project – C++ Game Development
+
+## Student Details
+- Name: Sudhan Bhandari
+- Student ID: 2506759
+- Degree Program: BBA, Game Programming
+- Credits: 30 ECTS
+
+## Training Objectives
+- Apply C++ programming skills to a real game project
+- Learn version control, project management, and game logic
+- Develop a functional game demo with assets
+- Document progress for KAMK practical training submission
+
+## Project Description
+- The project will be a small 2D game in C++ with graphics, interactive controls, and simple AI.
+- Features:
+  - Player movement and interaction
+  - Enemy AI behavior
+  - Level design
+  - Scoring and UI elements
+
+## Progress Log Template
+- Week 1: Project setup, main.cpp structure created
+- Week 2: Implemented player movement and basic controls
+- Week 3: Added enemies and collision detection
+- Week 4: Level design and scoring
+- Week 5: Final testing and debugging
+- Week 6: Complete demo and documentation
+
+## Deliverables
+- Source code in /Code
+- Documentation and weekly progress in /Docs
+- Game assets in /Assets
+- Final demo in /Deliverables
